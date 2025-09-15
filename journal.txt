@@ -1,1 +1,2 @@
 Dia 1: aprendi a crear un repo en Github
+Dia 2: Agregue un archivo README.md al repo en Github
