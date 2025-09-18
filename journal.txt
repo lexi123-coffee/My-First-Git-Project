@@ -2,4 +2,6 @@ Dia 1: aprendi a crear un repo en Github
 Dia 2: Agregue un archivo README.md al repo en Github
 Entrada del 15 de septiembre: Hoy aprendí a usar Git con la terminal
 Entrada del 16 de septiembre: Hoy vi el desfile
+Entrada del 17 de septiembre: Hoy vi como vi como funncionan las strings en ruby
+
 
