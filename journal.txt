@@ -7,3 +7,4 @@ Entrada del 18 de Septiembre: Hoy aprendi a usar arrays en ruby
 
 
 
+
