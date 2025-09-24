@@ -5,6 +5,7 @@ Entrada del 16 de septiembre: Hoy vi el desfile
 Entrada del 17 de septiembre: Hoy vi como vi como funncionan las strings en ruby
 Entrada del 18 de Septiembre: Hoy aprendi a usar arrays en ruby
 Entrada del 19 de septiembre: Hoy termine la introduccion de rubykin
+Entrada del 22 de septiembre: Hoy pracite elaboracion de pequenos programas  usando ruby
 
 
 
