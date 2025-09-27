@@ -9,7 +9,8 @@ Entrada del 22 de septiembre: Hoy practique la elaboracion de pequenos programas
 Entrada del 23 de septiembre: Hoy hice algunos ejercicios usando ruby, tambien di un repaso a los comandos para navegar en la termial
 Entrada del 24 de septiembre: Hoy di un repaso a lo que son los loops en ruby
 Entrada del 25 de septiembre: El dia de hoy investigue un poco mas a fondo sobre algunos frameworks en ruby, intruduciendome en rails para conocer un poco mas sobre como "acelerar" el desarrollo web que es un poco mas complejo
-
+Entrada del 26 de septiembre: Hoy hice algunos ejercicios en ruby, esto para ir reforzado y memorizando la sintaxis, tambien para ir sabiendo que debo usar en diferentes tipos de proyectos, asi como sus requerimientos
+ 
 
 
 
