@@ -13,6 +13,7 @@ Entrada del 26 de septiembre: Hoy hice algunos ejercicios en ruby, esto para ir 
 Entrada del 29 de septiembre: El dia de hoy hice un repaso a lo que he visto en esta ultima semana, tambien hice algunos ejercicios en ruby tomando en cuenta los que ya tenia para elaborar algunos otros.
 Entrada del 30 de septiembre: Hoy hice un repaso a el ciclo If and Else en ruby, ya que la verdad no me habia quedado muy claro el como funciona este ciclo, tambien repase con algunos ejercicios los elementos basicos para evaluar condicionales.
 Entrada del 01 de octubre: Hoy estudie y repase lo que son las variables y operaciones, asi como a las cadenas de texto (strings) 
+Entrada del 02 de octubre: El dia de hoy trabaje creando un script en ruby donnde se introducian valores y el script imprimia la palabra "odd" o la palabra "even" depediendo si el balor introducido es par o impar
 
 
 
