@@ -17,9 +17,7 @@ Entrada del 02 de octubre: El dia de hoy trabaje creando un script en ruby donnd
 Entrada del 03 de octubre: El dia de hoy comence a trabajar en la nueva funcionalidad que tendra mi script de "odd" y "even"
 Entrada del 06 de octubre: Hoy di un repaso a las diferentes funciones de ruby
 Entradad del 07 de octubre: Hoy hice una implementacion a mi script de pares e impares, al cual le agregue una clase y dos metodos, uno publico y uno privado.
-
-
-
+Entrada del 09 de octubre: El dia de hoy hice una implementacion de dos metodos a mi script de pares e impares, uno publico y uno pirvado, el cual coloque en mi nuevo repo.
 
 
 
