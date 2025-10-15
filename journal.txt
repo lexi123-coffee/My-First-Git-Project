@@ -19,6 +19,6 @@ Entrada del 06 de octubre: Hoy di un repaso a las diferentes funciones de ruby
 Entradad del 07 de octubre: Hoy hice una implementacion a mi script de pares e impares, al cual le agregue una clase y dos metodos, uno publico y uno privado.
 Entrada del 09 de octubre: El dia de hoy hice una implementacion de dos metodos a mi script de pares e impares, uno publico y uno pirvado, el cual coloque en mi nuevo repo.
 Entrada del 13 de octubre: Hoy di un breve repaso a mi ultimo script elaborado, el de article.rb
-Entrada del 14 de octubre: Hoy hice una modificacion a mi archivo de arcticle, le agregue un metodo de instancia y despues agregue la cambie la funcionalidad del metodo para que este resiviera especificamente keywords
+Entrada del 14 de octubre: Hoy hice una modificacion a mi archivo de arcticle, le agregue un metodo de instancia y despues agregue la funcionalidad del metodo para que este resiviera especificamente keywords
 
 
